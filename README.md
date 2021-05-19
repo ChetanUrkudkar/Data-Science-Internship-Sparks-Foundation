@@ -1,6 +1,4 @@
-# DataScience
-
-Task : Prediction Using Supervised ML
+# Prediction Using Supervised ML
 
 Problem Statement : Predict the percentage of an student based on the no. of study hours.
 
