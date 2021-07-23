@@ -4,6 +4,8 @@ Problem Statement : Predict the percentage of an student based on the no. of stu
 
 Language : Python 3
 
+Libraries : sklearn libraries
+
 Machine Learning Model : Linear Regression
 
 IDE : Google Colaboratory
